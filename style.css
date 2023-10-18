@@ -90,3 +90,11 @@ body{
         transform: translateX(0);
     }
 }
+
+/*Mobile website*/
+@media only screen and (max-width: 600px){
+    .container{
+        width: 70%;
+    }
+   
+}
