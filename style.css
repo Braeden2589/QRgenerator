@@ -96,5 +96,9 @@ body{
     .container{
         width: 70%;
     }
-   
+
+    #imgBox{
+        width: 100%;
+    }
+}
 }
